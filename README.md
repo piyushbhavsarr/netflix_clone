@@ -56,7 +56,7 @@ To get started with Flixxit, follow these steps:
 1. **Clone the Repository:** Open a terminal and run the following command to clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/Vinay-Id/Flixxit.git
+   git clone https://github.com/piyushbhavsarr/netflix_clone.git
    ```
 
 2. **Navigate to the Frontend Folder:** Change your working directory to the frontend folder:
